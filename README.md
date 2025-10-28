@@ -29,7 +29,7 @@ This repository explores data preprocessing, vector databases, LLM model loading
 - End-to-end **Generative AI** workflow examples  
 - Integration with **Vector Databases** (ChromaDB, Pinecone, Weaviate)  
 - **LangChain** and **LlamaIndex** examples for building RAG pipelines  
-- Model demos with **LLaMA 2**, **Mistral**, and **Falcon**  
+- Model demos with **LLaMA 2**, **Mistral**, **Falcon**, **Gemini** and **GPT-4**
 - Hugging Face model loading and inference pipelines  
 - Data preprocessing for efficient LLM input feeding  
 - Includes simple ML comparison for text classification tasks  
