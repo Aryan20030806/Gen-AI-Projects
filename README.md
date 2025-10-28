@@ -41,18 +41,8 @@ This repository explores data preprocessing, vector databases, LLM model loading
 | Category | Tools / Libraries |
 |-----------|-------------------|
 | **Languages** | Python |
-| **Frameworks** | LangChain, LlamaIndex |
-| **LLMs** | LLaMA 2, Mistral, Falcon |
+| **Frameworks** | LangChain, LlamaIndex, HuggingFace Transformers |
+| **LLMs** | LLaMA 2, Mistral, Falcon, Gemini, GPT-4 |
 | **Databases** | ChromaDB, Pinecone, Weaviate |
-| **Libraries** | Transformers, SentenceTransformers, BitsAndBytes |
-| **ML Tools** | Scikit-learn, NumPy, Pandas, Matplotlib |
-| **Deployment (future)** | Streamlit, FastAPI, Hugging Face Spaces |
-
----
-
-## ⚙️ Setup Instructions
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/Aryan20030806/Gen-AI-Projects.git
-cd Gen-AI-Projects
+| **ML Tools** | Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn |
+| **Cloud and Deployment** | Streamlit, AWS , Vertex AI, Bedrock |
